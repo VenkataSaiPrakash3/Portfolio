@@ -61,10 +61,10 @@ Midwestern State University | Wichita Falls, Texas
 ---
 
 ## 🔹 **Contact Me**  
-📧 Email: [your.email@example.com]  
-🔗 LinkedIn: [linkedin.com/in/your-profile]  
-💻 GitHub: [github.com/yourusername]  
-🌎 Portfolio: [yourportfolio.com]  
+📧 Email: venkatasaiprakashboddu@example.com  
+🔗 LinkedIn: [[linkedin.com/in/your-profile] ](https://www.linkedin.com/in/venkata-sai-prakash-boddu-7b8761352?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) 
+💻 GitHub: github.com/VenkataSaiPrakash3 
+ 
 
 ---
 
