@@ -2,7 +2,7 @@
 
 🚀 **Sr. Full Stack Java Developer | 7+ Years Experience | Java | Spring Boot | React | AWS**  
 
-I am a **Senior Full Stack Java Developer** with 7+ years of experience designing and developing **scalable enterprise applications** in **finance, healthcare, and retail industries**. I specialize in **Java, Spring Boot, React, Angular, and AWS**, building high-performance, secure, and cloud-native solutions. Passionate about **microservices, cloud computing, and DevOps**, I enjoy solving complex problems and improving system efficiency.  
+I am a **Software Developer** with 7+ years of experience designing and developing **scalable enterprise applications** in **finance, healthcare, and retail industries**. I specialize in **Java, Spring Boot, React, Angular, and AWS**, building high-performance, secure, and cloud-native solutions. Passionate about **microservices, cloud computing, and DevOps**, I enjoy solving complex problems and improving system efficiency.  
 
 ---
 
@@ -16,7 +16,7 @@ I am a **Senior Full Stack Java Developer** with 7+ years of experience designin
 
 ## 🔹 **Experience**  
 
-### **🏦 State Street | Sr. Full Stack Java Developer | Jan 2023 - Present**  
+### **🏦 State Street | Software Developer | Jan 2023 - Present**  
 **Project: Risk Analytics Dashboard**  
 - Developed a **real-time financial risk monitoring system** using **Java, Spring Boot, and React**.  
 - Built **scalable RESTful APIs** and integrated **Kafka** for event-driven communication.  
@@ -24,8 +24,8 @@ I am a **Senior Full Stack Java Developer** with 7+ years of experience designin
 - Improved database performance by **optimizing SQL queries and indexing strategies**.  
 - Enhanced security using **OAuth2, JWT authentication, and role-based access control (RBAC)**.  
 
-### **💊 Walgreens | Software Developer | Aug 2021 - Dec 2023**  
-**Project: Online Prescription Refill & Pickup System**  
+### **💊 NextGen Healthcare | Software Developer | Apr 2021 - Dec 2022**  
+**Project: Electonic Health Records (EHR) System**  
 - Built a **React-based order tracking UI** with **Material-UI and Redux**.  
 - Designed **microservices using Spring Boot**, ensuring **secure prescription data management**.  
 - Integrated **Kafka for real-time messaging** and **Redis for caching**.  
