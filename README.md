@@ -24,18 +24,28 @@ I am a **Software Developer** with 7+ years of experience designing and developi
 - Improved database performance by **optimizing SQL queries and indexing strategies**.  
 - Enhanced security using **OAuth2, JWT authentication, and role-based access control (RBAC)**.  
 
-### **💊 NextGen Healthcare | Software Developer | Apr 2021 - Dec 2022**  
-**Project: Electonic Health Records (EHR) System**  
-- Built a **React-based order tracking UI** with **Material-UI and Redux**.  
-- Designed **microservices using Spring Boot**, ensuring **secure prescription data management**.  
-- Integrated **Kafka for real-time messaging** and **Redis for caching**.  
-- Deployed services on **AWS ECS, API Gateway, and Lambda** with CI/CD automation.  
+### 🔹 **NextGen Healthcare|Software Developer |Apr 2021 - Dec 2022 **  
+**Project: Electronic Health Care Records(EHR)**
+- Developed and maintained **FHIR and HL7-compliant APIs** for seamless healthcare data exchange.  
+- Designed and implemented **Spring Boot microservices** to enhance system scalability and modularity.  
+- Integrated **Kafka and RabbitMQ** for real-time messaging and event-driven processing.  
+- Improved **SQL query performance**, reducing response time by **30%**.  
+- Deployed applications on **AWS (EC2, S3, RDS, Lambda, API Gateway)** with **CI/CD pipelines** (Jenkins, Docker, Kubernetes).  
 
-### **🌍 Tata Consultancy Services | Java Developer | Jun 2018 - Jul 2021**  
-- Developed **Spring Boot microservices** for enterprise applications.  
-- Integrated **RabbitMQ/Kafka** for distributed event processing.  
-- Worked with **SQL and NoSQL databases**, optimizing query performance.  
-- Implemented **security best practices** using **JWT and OAuth2**.  
+### 🔹 **Nordstrom | Software Developer |Feb 2019 - Mar 2021 **  
+**Inventory and Supply Chain Optimization**
+- Built a **highly scalable e-commerce platform** with **Spring Boot and React.js**.  
+- Designed and optimized **microservices architecture** to handle millions of transactions per day.  
+- Integrated **payment gateways** and **inventory management systems**.  
+- Utilized **Kafka for real-time order tracking and event-driven processing**.  
+- Deployed and managed applications on **AWS ECS and Lambda**, ensuring high availability.  
+ 
+
+### **🌍 Hashtag Technologies | Java Developer | Jun 2017 - Jan 2019**  
+- Developed microservices-based **e-commerce applications** with **Spring Boot and Angular**.  
+- Designed and optimized **MySQL and MongoDB queries**, improving data retrieval efficiency.  
+- Built **RESTful APIs** to support mobile and web applications.  
+- Implemented **Redis caching**, reducing API response times by **40%**.  
 
 ---
 
@@ -68,10 +78,22 @@ Midwestern State University | Wichita Falls, Texas
 
 ---
 
-### 📌 **Featured Projects**  
-- **Risk Analytics Dashboard** - [GitHub Repo](#)  
-- **Online Prescription Refill System** - [GitHub Repo](#)  
-- **Microservices-based E-commerce Backend** - [GitHub Repo](#)  
+## 📂 **Featured Projects**  
+
+### 1️⃣ **FHIR API Integration for Healthcare Systems**  
+- 🏥 Built a **FHIR-compliant API** to facilitate interoperability between hospitals and insurance providers.  
+- 🔐 Implemented **OAuth2 authentication** and **RBAC** for secure data exchange.  
+- ☁️ Deployed on **AWS Lambda & API Gateway** for scalability.  
+
+### 2️⃣ **Real-Time Financial Risk Dashboard**  
+- 📊 Developed a **Spring Boot microservices-based dashboard** for analyzing financial risks.  
+- 🔄 Integrated **Kafka for real-time transaction streaming**.  
+- 🔍 Used **Elasticsearch for fast financial data retrieval**.  
+
+### 3️⃣ **E-commerce Platform**  
+- 🛍️ Designed and built a **scalable e-commerce application** using **Spring Boot and Angular**.  
+- 💳 Implemented **payment gateway integration, order tracking, and product recommendations**.  
+- ☁️ Deployed on **AWS ECS with Dockerized services**. 
 
 ---
 
