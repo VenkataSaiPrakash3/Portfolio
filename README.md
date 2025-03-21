@@ -24,7 +24,7 @@ I am a **Software Developer** with 7+ years of experience designing and developi
 - Improved database performance by **optimizing SQL queries and indexing strategies**.  
 - Enhanced security using **OAuth2, JWT authentication, and role-based access control (RBAC)**.  
 
-### 🔹 **NextGen Healthcare|Software Developer |Apr 2021 - Dec 2022 **  
+### 🔹 **NextGen Healthcare|Software Developer |Apr 2021 - Dec 2022**  
 **Project: Electronic Health Care Records(EHR)**
 - Developed and maintained **FHIR and HL7-compliant APIs** for seamless healthcare data exchange.  
 - Designed and implemented **Spring Boot microservices** to enhance system scalability and modularity.  
@@ -32,7 +32,7 @@ I am a **Software Developer** with 7+ years of experience designing and developi
 - Improved **SQL query performance**, reducing response time by **30%**.  
 - Deployed applications on **AWS (EC2, S3, RDS, Lambda, API Gateway)** with **CI/CD pipelines** (Jenkins, Docker, Kubernetes).  
 
-### 🔹 **Nordstrom | Software Developer |Feb 2019 - Mar 2021 **  
+### 🔹 **Nordstrom | Software Developer |Feb 2019 - Mar 2021**  
 **Inventory and Supply Chain Optimization**
 - Built a **highly scalable e-commerce platform** with **Spring Boot and React.js**.  
 - Designed and optimized **microservices architecture** to handle millions of transactions per day.  
