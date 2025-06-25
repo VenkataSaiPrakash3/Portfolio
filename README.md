@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Venkata Sai Prakash Boddu  
 
-🚀 **Sr. Full Stack Java Developer | 7+ Years Experience | Java | Spring Boot | React | AWS**  
+🚀 **Sr. Full Stack Java Developer | 8 Years Experience | Java | Spring Boot | React | AWS**  
 
-I am a **Software Developer** with 7+ years of experience designing and developing **scalable enterprise applications** in **finance, healthcare, and retail industries**. I specialize in **Java, Spring Boot, React, Angular, and AWS**, building high-performance, secure, and cloud-native solutions. Passionate about **microservices, cloud computing, and DevOps**, I enjoy solving complex problems and improving system efficiency.  
+I am a **Software Developer** with 8 years of experience designing and developing **scalable enterprise applications** in **finance, healthcare, and retail industries**. I specialize in **Java, Spring Boot, React, Angular, and AWS**, building high-performance, secure, and cloud-native solutions. Passionate about **microservices, cloud computing, and DevOps**, I enjoy solving complex problems and improving system efficiency.  
 
 ---
 
@@ -32,7 +32,7 @@ I am a **Software Developer** with 7+ years of experience designing and developi
 - Improved **SQL query performance**, reducing response time by **30%**.  
 - Deployed applications on **AWS (EC2, S3, RDS, Lambda, API Gateway)** with **CI/CD pipelines** (Jenkins, Docker, Kubernetes).  
 
-### 🔹 **Nordstrom | Software Developer |Feb 2019 - Mar 2021**  
+### 🔹 **Nordstrom | Software Developer |Feb 2020 - Mar 2021**  
 **Inventory and Supply Chain Optimization**
 - Built a **highly scalable e-commerce platform** with **Spring Boot and React.js**.  
 - Designed and optimized **microservices architecture** to handle millions of transactions per day.  
@@ -41,7 +41,7 @@ I am a **Software Developer** with 7+ years of experience designing and developi
 - Deployed and managed applications on **AWS ECS and Lambda**, ensuring high availability.  
  
 
-### **🌍 Hashtag Technologies | Java Developer | Jun 2017 - Jan 2019**  
+### **🌍 Hashtag Technologies | Java Developer | Jun 2017 - Nov 2019**  
 - Developed microservices-based **e-commerce applications** with **Spring Boot and Angular**.  
 - Designed and optimized **MySQL and MongoDB queries**, improving data retrieval efficiency.  
 - Built **RESTful APIs** to support mobile and web applications.  
@@ -64,14 +64,8 @@ I am a **Software Developer** with 7+ years of experience designing and developi
 
 ---
 
-## 🔹 **Education**  
-🎓 **Master’s in Computer Science**  
-Midwestern State University | Wichita Falls, Texas  
-
----
-
 ## 🔹 **Contact Me**  
-📧 Email: venkatasaiprakashboddu@example.com  
+📧 Email: venkatasaiprakashboddu@gmail.com  
 🔗 LinkedIn: [[linkedin.com/in/VenkataSaiPrakash] ](https://www.linkedin.com/in/venkata-sai-prakash-boddu-7b8761352?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 💻 GitHub: github.com/VenkataSaiPrakash3 
  
